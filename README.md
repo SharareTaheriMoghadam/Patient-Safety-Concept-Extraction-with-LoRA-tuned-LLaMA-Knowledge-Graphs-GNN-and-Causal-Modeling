@@ -1,5 +1,23 @@
 # Patient-Safety-Concept-Extraction-with-LoRA-tuned-LLaMA-Knowledge-Graphs-GNN-and-Causal-Modeling
 SafeGraph-RAG-Temporal is a next-generation ontology-driven patient safety intelligence framework integrating: Instruction-tuned LLaMA with LoRA fine-tuning, ontologies,  Knowledge graph reasoning, RAG, Temporal event prediction and Multi-agent clinical reasoning.
+___
+Associated Research Manuscript
+
+This project is associated with pre-published research manuscripts.
+
+Authors
+
+- Sharare Taheri Moghadam, PhD
+- Md Shafiqur Rahman Jabin, PhD
+
+Corresponding author:
+Md Shafiqur Rahman Jabin
+Department of Medicine and Optometry
+Linnaeus University, Kalmar, Sweden
+Email: mdshafiqur.rahmanjabin@lnu.se
+
+The associated manuscripts are currently pre-published / under peer review.
+___
 # SafeGraph-RAG-Temporal
 
 Ontology-driven, retrieval-augmented, multi-agent patient safety intelligence framework.
